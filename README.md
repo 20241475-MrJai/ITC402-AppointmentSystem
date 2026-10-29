@@ -128,6 +128,30 @@ The `tests/test\_results.txt` file contains the recorded output from the automat
 
 
 
+\## Automated Test Cases
+
+
+
+The Selenium test suite contains five automated test cases:
+
+
+
+1. Page loads: Verifies that the appointment booking page opens successfully.
+
+2. Valid appointment submission: Checks that a valid appointment can be submitted and a confirmation is displayed.
+
+3. Invalid email: Checks the application's handling of an invalid email address.
+
+4. Missing required fields: Verifies that required fields prevent incomplete submissions.
+
+5. View appointments: Checks that the appointments listing page displays appointment records.
+
+
+
+These tests help verify the main application workflow and basic form validation.
+
+
+
 \## Data Storage and Limitations
 
 Appointments are stored in PHP sessions rather than a database. The application is intended for educational demonstration and does not provide permanent storage or production-level appointment management.
