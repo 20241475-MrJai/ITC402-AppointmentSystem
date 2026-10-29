@@ -1,0 +1,10 @@
+test_01_page_loads (__main__.AppointmentBookingTests.test_01_page_loads) ... ok
+test_02_valid_appointment_submission (__main__.AppointmentBookingTests.test_02_valid_appointment_submission) ... ok
+test_03_invalid_email (__main__.AppointmentBookingTests.test_03_invalid_email) ... ok
+test_04_missing_required_fields (__main__.AppointmentBookingTests.test_04_missing_required_fields) ... ok
+test_05_view_appointments (__main__.AppointmentBookingTests.test_05_view_appointments) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 5.315s
+
+OK
