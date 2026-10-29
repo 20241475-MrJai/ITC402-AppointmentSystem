@@ -158,9 +158,19 @@ Appointments are stored in PHP sessions rather than a database. The application 
 
 
 
-\## Version Control
+\##Version Control
 
-Git is used to track project changes. The repository includes an initial commit and a feature branch for project documentation. The completed project will be published to GitHub.
+Git was used to track project changes, and GitHub hosts the source code.
+
+Main branch: main
+
+Feature branch: feature/project-documentation
+
+Total meaningful commits: 3 before final submission updates
+
+Repository: https://github.com/20241475-MrJai/ITC402-AppointmentSystem
+
+The feature branch was merged into the main branch, and both branches were published to GitHub.
 
 
 
